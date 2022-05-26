@@ -16,7 +16,7 @@
     "data": [
         'data/cancel_qut_action.xml',
     ],
-    'images': ['static/description/hide_link.png'],
+    'images': ['static/description/cancel_qut.png'],
     'depends': ['sale_management'],
     'installable': True,
     'auto_install': False,
