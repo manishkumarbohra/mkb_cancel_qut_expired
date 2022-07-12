@@ -25,5 +25,5 @@ Authors:
 
 Developer:
 ----------
-* Manish Kumar Bohra <manishbohra1994@gmail.com> or <manishkumarbohra@outlook.com>
+* Manish Kumar Bohra <manishkumarbohra@outlook.com>
 
