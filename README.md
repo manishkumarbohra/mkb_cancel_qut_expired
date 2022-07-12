@@ -6,7 +6,7 @@ mkb_sales
 This Branch mainly manages the multiple modules related to sales order:
 
 * Following modules are managed 
-1. Cancel Expired Quotation
+1. Bulk Sales Order Confirmation
 2. Sales Order Refresh
 
 **Table of contents**
