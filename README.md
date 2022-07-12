@@ -1,23 +1,19 @@
 ---------------------------------
-so_refresh
+mkb_sales
 ---------------------------------
 
 
-This module add new function on sale order:
+This Branch mainly manages the multiple modules related to sales order:
 
-* This module allows user to reload the so screen without refresh the webpage
+* Following modules are managed 
+1. Cancel Expired Quotation
+2. Sales Order Refresh
 
 **Table of contents**
 
-Installation:
+Odoo Version:
 -------------
-
-There are two depended module sale and sale_management for accessing the needed for the actions.
-
-Usage:
-------
-
-This module allows user to reload the so screen without refresh the webpage
+14.0
 
 Authors:
 --------
@@ -25,5 +21,6 @@ Authors:
 
 Developer:
 ----------
-* Manish Kumar Bohra <manishbohra1994@gmail.com> or <manishkumarbohra@outlook.com>
+* Manish Kumar Bohra <manishkumarbohra@outlook.com>
+
 
