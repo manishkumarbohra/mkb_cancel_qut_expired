@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <!-- Inherit Form View to Modify it -->
+    <record id="view_sales_order_revision_form" model="ir.ui.view">
+        <field name="name">sale.order.revision</field>
+        <field name="model">sale.order</field>
+        <field name="inherit_id" ref="sale.view_order_form"/>
+        <field name="arch" type="xml">
+            <div class="oe_button_box" name="button_box">
+                <button name="action_view_revise_order" type="object" class="oe_stat_button" icon="fa-copy"
+                        attrs="{'invisible': [('revision_count', '=', 0)]}">
+                    <field name="revision_count" widget="statinfo" string="Revise"/>
+                    <div class="o_field_widget o_stat_info">
+                        <span class="o_stat_text">Revised</span>
+                        <span class="o_stat_text">Order</span>
+                    </div>
+                </button>
+            </div>
+            <xpath expr="//header" position="inside">
+                <button name="sales_order_revision" type="object" string="Order Revision"
+                        attrs="{'invisible': [('is_revised_order', '=', True)]}"/>
+            </xpath>
+            <xpath expr="//field[@name='origin']" position="after">
+                <field name="source_doc_id" invisible="1"/>
+                <field name="is_revised_order" invisible="1"/>
+                <field name="revision_count" invisible="1"/>
+                <field name="child_order_ids" widget="many2many_tags" invisible="1"/>
+            </xpath>
+        </field>
+    </record>
+</odoo>
