@@ -1,5 +1,5 @@
 ---------------------------------
-bulk_sales_order_confirmation
+Bulk Sales Order Confirmation
 ---------------------------------
 
 
