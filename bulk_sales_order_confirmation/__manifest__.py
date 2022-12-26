@@ -2,7 +2,7 @@
 # License LGPL-3 - See http://www.gnu.org/licenses/Lgpl-3.0.html
 
 {
-    'name': 'Bulk Sales Order Confirmation',
+    'name': 'Bulk Confirm Quotations',
     'version': '14.0',
     'summary': 'This app allows you to confirm multiple sales order in bulk',
     'description': 'This app allows you to confirm multiple sales order in bulk',
