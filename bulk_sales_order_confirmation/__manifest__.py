@@ -3,7 +3,7 @@
 
 {
     'name': 'Bulk Confirm Quotations',
-    'version': '15.0',
+    'version': '1.0.0',
     'summary': 'This app allows you to confirm multiple sales order in bulk',
     'description': 'This app allows you to confirm multiple sales order in bulk',
     'category': 'Sales',
