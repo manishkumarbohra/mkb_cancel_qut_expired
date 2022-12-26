@@ -3,7 +3,7 @@
 
 {
     'name': 'Sales Order Refresh',
-    'version': '15.0',
+    'version': '1.0.0',
     'summary': 'This module allows user to reload the so screen without refresh the webpage',
     'description': 'This module allows user to reload the so screen without refresh the webpage',
     'category': 'Sales',
