@@ -1,5 +1,5 @@
 ---------------------------------
-Bulk Sales Order Confirmation
+Bulk Confirm Quotations
 ---------------------------------
 
 
