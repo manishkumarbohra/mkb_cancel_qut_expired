@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <template id="report_saleorder_document_inherit_signature_sale_management"
+              inherit_id="sale.report_saleorder_document">
+        <xpath expr="//div[@name='signature']" position="after">
+            <div align="right">
+                <p>User Signature :</p>
+                <div>
+                    <img t-attf-src="data:image/jpg;base64,{{ user.user_signature }}" height="65" width="65"
+                    />
+                </div>
+                <span t-esc="user.name" style="padding-top:0px;"/>
+            </div>
+        </xpath>
+    </template>
+</odoo>
