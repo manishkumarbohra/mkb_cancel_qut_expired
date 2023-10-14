@@ -17,7 +17,7 @@
     'depends': ['sale', 'sale_management'],
     'data': [
         'views/sales_revision.xml'],
-    'images': ['static/description/revision.gif'],
+    'images': ['static/description/banner.png'],
     'installable': True,
     'auto_install': False,
     'application': True,

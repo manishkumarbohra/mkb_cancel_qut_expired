@@ -13,7 +13,7 @@
     'support': 'manishkumarbohra@outlook.com',
     'sequence': '10',
     'license': 'LGPL-3',
-    'images': ['static/description/pricelist.gif'],
+    'images': ['static/description/banner.png'],
     'depends': ['sale', 'sale_management'],
     'installable': True,
     'auto_install': False,
