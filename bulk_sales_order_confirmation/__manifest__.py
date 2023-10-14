@@ -16,7 +16,7 @@
     "data": [
         'views/bulk_sales.xml',
     ],
-    'images': ['static/description/bulk.gif'],
+    'images': ['static/description/banner.png'],
     'depends': ['sale', 'sale_management'],
     'installable': True,
     'auto_install': False,

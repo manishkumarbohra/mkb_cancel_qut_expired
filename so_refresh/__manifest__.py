@@ -16,7 +16,7 @@
     "data": [
         'views/so_refresh.xml',
     ],
-    'images': ['static/description/reload.gif'],
+    'images': ['static/description/banner.png'],
     'depends': ['sale', 'sale_management'],
     'installable': True,
     'auto_install': False,
