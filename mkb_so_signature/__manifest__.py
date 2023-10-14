@@ -17,7 +17,7 @@
         'views/res_users.xml',
         'report/sale_report_templates.xml',
     ],
-    'images': ['static/description/bulk.gif'],
+    'images': ['static/description/banner.png'],
     'depends': ['base', 'sale', 'sale_management'],
     'installable': True,
     'auto_install': False,
