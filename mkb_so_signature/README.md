@@ -1,11 +1,11 @@
 ---------------------------------
-Bulk Confirm Quotations
+User Signature in Sale/Quotation Reports
 ---------------------------------
 
 
-This module add new method on sale order:
+This module add the users signature in Sales:
 
-* This app allows you to confirm multiple sales order in bulk
+* This app allows to add the users signature in Sale/Quotation Reports
 
 **Table of contents**
 
@@ -16,8 +16,8 @@ There are two depended module sale and sale_management for accessing the needed 
 
 Usage:
 ------
-
-In the sales order, you can select multiple Quotation/Quotation Sent to convert into confirm in bulk.
+* In the user profile add the use signature 
+* This app allows to add the users signature in Sale/Quotation Reports
 
 Authors:
 --------
