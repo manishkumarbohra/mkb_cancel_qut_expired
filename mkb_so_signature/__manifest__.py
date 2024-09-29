@@ -7,7 +7,7 @@
     'summary': 'This app add User Signature in Sale/Quotation Reports',
     'description': 'This app add User Signature in Sale/Quotation Reports',
     'category': 'Sales',
-    'author': 'Manish Bohra',
+    'author': 'SunArc Technologies, Manish Bohra',
     'website': 'www.linkedin.com/in/manishkumarbohra',
     'maintainer': 'Manish Bohra',
     'support': 'manishkumarbohra@outlook.com',

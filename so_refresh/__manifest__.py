@@ -7,7 +7,7 @@
     'summary': 'This module allows user to reload the so screen without refresh the webpage',
     'description': 'This module allows user to reload the so screen without refresh the webpage',
     'category': 'Sales',
-    'author': 'Manish Bohra',
+    'author': 'SunArc Technologies, Manish Bohra',
     'website': 'www.linkedin.com/in/manishkumarbohra',
     'maintainer': 'Manish Bohra',
     'support': 'manishkumarbohra@outlook.com',

@@ -7,7 +7,7 @@
     'summary': 'This app allows you to confirm multiple sales order in bulk',
     'description': 'This app allows you to confirm multiple sales order in bulk',
     'category': 'Sales',
-    'author': 'Manish Bohra',
+    'author': 'SunArc Technologies, Manish Bohra',
     'website': 'www.linkedin.com/in/manishkumarbohra',
     'maintainer': 'Manish Bohra',
     'support': 'manishkumarbohra@outlook.com',

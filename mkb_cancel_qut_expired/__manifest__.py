@@ -7,7 +7,7 @@
     'summary': 'This module allows to cancel the expired quotations via cron action',
     'description': 'This module allows to cancel the expired quotations via cron action',
     'category': 'Sales',
-    'author': 'Manish Bohra',
+    'author': 'SunArc Technologies, Manish Bohra',
     'website': 'www.linkedin.com/in/manishkumarbohra',
     'maintainer': 'Manish Bohra',
     'support': 'manishkumarbohra@outlook.com',
