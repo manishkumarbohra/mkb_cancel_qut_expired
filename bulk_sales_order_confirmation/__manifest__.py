@@ -4,8 +4,8 @@
 {
     'name': 'Bulk Confirm Quotations',
     'version': '1.0.0',
-    'summary': 'This app allows you to confirm multiple sales order in bulk',
-    'description': 'This app allows you to confirm multiple sales order in bulk',
+    'summary': 'This app allows you to confirm multiple sales order in bulk,orden de venta',
+    'description': 'This app allows you to confirm multiple sales order in bulk,orden de venta',
     'category': 'Sales',
     'author': 'Manish Bohra',
     'website': 'www.linkedin.com/in/manishkumarbohra',
